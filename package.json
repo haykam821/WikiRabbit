@@ -1,0 +1,26 @@
+{
+  "name": "wikirabbit",
+  "version": "1.0.0",
+  "description": "This project aims to get a list of potential paths getting from one Wikipedia article to another using the links on the article.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haykam821/WikiRabbit.git"
+  },
+  "keywords": [
+    "wikipedia",
+    "link",
+    "tree",
+    "wiki",
+    "game"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haykam821/WikiRabbit/issues"
+  },
+  "homepage": "https://github.com/haykam821/WikiRabbit#readme"
+}
